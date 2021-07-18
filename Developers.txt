@@ -6,10 +6,10 @@ Sl.No.			Name				githubUserName
  3.
  4.
  5.
- 6.                     Amrutha K R                     Amrutha123-devu    
+ 6.         Amrutha K R             Amrutha123-devu    
  7.
  8.			Aneeta Reji			AneetaReji
- 9.                     Anisha Jayaprakash              anishajp 
+ 9.         Anisha Jayaprakash     anishajp 
 10.
 11.
 12.
@@ -21,19 +21,19 @@ Sl.No.			Name				githubUserName
 18.
 19.
 20.
-21.                                                     Haritha M Nair                                                 HarithaMN
+21.        Haritha M Nair         HarithaMN
 22.
 23.
 24.
 25.
 26.
-27.		        Nithya A		        Nithya-A
-28.                     Rohini P R                      Rohini-222
+27.		  Nithya A		        Nithya-A
+28.     Rohini P R                      Rohini-222
 29.
 30.
 31.
-32.
-33.			Sarath S R 			Sarathsr15
+32.		Sanjana M				Sanjana-325
+33.		Sarath S R 			Sarathsr15
 34.
 35.
 36.
