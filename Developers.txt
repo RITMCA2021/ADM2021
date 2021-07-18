@@ -1,4 +1,4 @@
-Sl.No.			Name				githubUserame
+Sl.No.			Name				githubUserName
 ******			****				*************
  0.			Tomsy Paul			tomsypaul
  1.
@@ -39,7 +39,7 @@ Sl.No.			Name				githubUserame
 36.
 37.
 38.
-39.
+39.			Tiny Thampan			TinyThampan
 40.
 41.                     vishnuja mohan                 vishnuja52
 42.
