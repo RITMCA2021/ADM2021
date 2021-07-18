@@ -30,7 +30,7 @@ Sl.No.			Name				githubUserName
 27.		        Nithya A		        Nithya-A
 28.                     Rohini P R                      Rohini-222
 29.
-30.
+30.			Rose Mary Roy Keettikkal	rosemaryroy
 31.
 32.
 33.			Sarath S R 			Sarathsr15
