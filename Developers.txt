@@ -31,7 +31,7 @@ Sl.No.			Name				githubUserName
 28.     Rohini P R                      Rohini-222
 29.
 30.			Rose Mary Roy Keettikkal	rosemaryroy
-31.   Sachin Krishnan R   Sachinkr05
+31.      Sachin Krishnan R              Sachinkr05
 32.		Sanjana M				Sanjana-325
 33.		Sarath S R 			Sarathsr15
 34.
