@@ -2,14 +2,12 @@ Sl.No.			Name				githubUserName
 ******			****				*************
  0.			Tomsy Paul			tomsypaul
  1.
-<<<<<<< HEAD
  2.			Achsah Mariam Benny             AchsahMB
  3.
-=======
  2.			
  3.                     Ajay kv                         ajaykv3
->>>>>>> 29a37a8f408896a5ae86d89c3619106108119910
  4.
+ 4.			Ajo joseph			ajojoseph31@gmail.com			
  5.
  6.         Amrutha K R             Amrutha123-devu    
  7.
@@ -24,7 +22,7 @@ Sl.No.			Name				githubUserName
 16.
 17.
 18.
-19.
+19.			Fathima Shirin K		fathimashirink
 20.
 21.        Haritha M Nair         HarithaMN
 22.
