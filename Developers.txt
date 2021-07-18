@@ -36,8 +36,8 @@ Sl.No.			Name				githubUserName
 33.		Sarath S R 			Sarathsr15
 34.
 35.
-36.                     Sruthy Hareeshkumar             sruthyhareeshkumar1234                     
-37.
+36.             Sruthy Hareeshkumar             sruthyhareeshkumar1234
+37.  Steena K C                    steenakc
 38.
 39.			Tiny Thampan			TinyThampan
 40.
