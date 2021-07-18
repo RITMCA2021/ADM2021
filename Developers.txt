@@ -2,10 +2,8 @@ Sl.No.			Name				githubUserName
 ******			****				*************
  0.			Tomsy Paul			tomsypaul
  1.
- 2.			Achsah Mariam Benny             AchsahMB
- 3.
- 2.			
- 3.                     Ajay kv                         ajaykv3
+ 2.			Achsah Mariam Benny             AchsahMB		
+ 3.   Ajay kv                         ajaykv3
  4.
  4.			Ajo joseph			ajojoseph31@gmail.com			
  5.
