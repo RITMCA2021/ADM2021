@@ -16,7 +16,7 @@ Sl.No.			Name				githubUserName
 14.
 15.    ASNA AT                                       ASNA9966
 16.
-17.   ATHUL BHAGIANATH.   AthulBhagianath
+17.                     Athul Bhagianath                AthulBhagianath
 18.
 19.			Fathima Shirin K		fathimashirink
 20.
