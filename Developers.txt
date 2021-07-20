@@ -10,8 +10,7 @@ Sl.No.			Name				githubUserName
  7.			Aneesh C N 			Aneesh1447
  8.			Aneeta Reji			AneetaReji
  9.         Anisha Jayaprakash     anishajp 
-10.			Anjana S			Anjanasarath
-11.		Anjitha A Kumar 			Anjitha11
+10.			Anjana S			Anjanasarath11.		Anjitha A Kumar 			Anjitha11
 12.
 13.
 14.
@@ -38,7 +37,7 @@ Sl.No.			Name				githubUserName
 35.  Sreelakshmi Rajan     sreelakshmi-rajan
 36.             Sruthy Hareeshkumar             sruthyhareeshkumar1234
 37.  Steena K C                    steenakc
-38.
+38.                     Tijo Joseph                     Tijo971  
 39.			Tiny Thampan			TinyThampan
 40.                     Vishak Prasad                  chathiyanchandhuu
 41.                     vishnuja mohan                 vishnuja52
